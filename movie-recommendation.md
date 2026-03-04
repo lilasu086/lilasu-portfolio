@@ -62,4 +62,4 @@ Build a hybrid recommendation system that combines **Natural Language Processing
 ---
 
 🔗 **Full Notebook & Code:**  
-https://github.com/lilasu086/Personalized-Movie-Recommendation-Engine-NLP-Association-Rules-
+[Personalized Movie Recommendation Engine (NLP + Association Rules)](https://github.com/lilasu086/Personalized-Movie-Recommendation-Engine-NLP-Association-Rules-)
