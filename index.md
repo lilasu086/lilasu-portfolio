@@ -12,17 +12,6 @@ Specializing in predictive analytics, SQL, Python, and data visualization for ac
 🔗 [Case Study →](flight-delay.md) | 🔗 [Full Code →](https://github.com/lilasu086/Flight-Delay-Prediction-Operational-Insights)  
 **Impact:** Predicted flight delays using ML (logistic regression & random forest), identifying high-risk routes and actionable operational recommendations to reduce costs.  
 
----
-
-### 💡 EcoBus Pricing Strategy
-🔗 [Case Study →](pricing-strategy.md) | 🔗 [Full Code →](https://github.com/lilasu086/EcoBus-Pricing-Strategy)  
-**Impact:** Designed a value-based pricing strategy for a fully electric bus service, estimating revenue increase and communicating economic & environmental benefits to stakeholders.
-
----
-
-### 📊 Supply Chain ESG Financial Impact Analytics
-🔗 [Full Code →](https://github.com/lilasu086/Supply-Chain-ESG-Financial-Impact-Analytics)  
-**Impact:** Analyzed ESG metrics across supply chains to measure financial implications, helping decision-makers prioritize sustainable practices with measurable ROI.
 
 ---
 
