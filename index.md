@@ -2,7 +2,7 @@
 **Data & Business Analyst**  
 
 Turning messy data into strategic business decisions.  
-Specializing in predictive analytics, SQL, Python, and data visualization for actionable business insights.
+Specializing in predictive analytics, SQL, Python, Tableau, and data visualization for actionable business insights.
 
 ---
 
