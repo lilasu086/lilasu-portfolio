@@ -40,8 +40,9 @@ Specializing in predictive analytics, SQL, Python, and data visualization for ac
 ---
 
 ### 📉 US Company Bankruptcy Prediction with Machine Learning
-🔗 [Full Code →](https://github.com/lilasu086/US-Company-Bankruptcy-Prediction-with-Machine-Learning)  
-**Impact:** Predicted bankruptcy risk using machine learning, enabling stakeholders to make early financial risk mitigation decisions.
+🔗 [Case Study →](bankruptcy-prediction.md) | 🔗 [Full Code →](https://github.com/lilasu086/US-Company-Bankruptcy-Prediction-with-Machine-Learning)  
+**Impact:** Built a machine learning model that predicts bankruptcy likelihood for U.S. companies, enabling investors and analysts to flag financial risk early and adjust strategies.  
+**Tech:** Python, Scikit‑Learn, XGBoost, Feature Engineering, Model Evaluation
 
 ---
 
