@@ -66,4 +66,4 @@ Assess how ESG-related measures in supply chain context (e.g., asset turnover, p
 ---
 
 🔗 **View Notebook & Code:**  
-https://github.com/lilasu086/Supply-Chain-ESG-Financial-Impact-Analytics
+[Supply Chain ESG & Financial Impact Analytics](https://github.com/lilasu086/Supply-Chain-ESG-Financial-Impact-Analytics)
