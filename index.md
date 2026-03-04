@@ -8,7 +8,7 @@ Specializing in predictive analytics, SQL, Python, and data visualization for ac
 
 ## 🚀 Featured Projects
 
-### ✈️ Flight Delay Prediction — Operational Insights
+### ✈️ Flight Delay Prediction & Operational Insights
 🔗 [Case Study →](flight-delay.md) | 🔗 [Full Code →](https://github.com/lilasu086/Flight-Delay-Prediction-Operational-Insights)  
 **Impact:** Predicted flight delays using ML (logistic regression & random forest), identifying high-risk routes and actionable operational recommendations to reduce costs.  
 
@@ -21,7 +21,7 @@ Specializing in predictive analytics, SQL, Python, and data visualization for ac
 
 ---
 
-### 🚗 Ride Hailing Demand & Pricing Insights (Uber/Lyft)
+### 🚗 Ride-Hailing Demand & Pricing Insights (Uber & Lyft)
 🔗 [Full Code →](https://github.com/lilasu086/Ride-Hailing-Demand-Pricing-Insights-Uber-Lyft-)  
 **Impact:** Conducted demand analysis and pricing optimization for ride-hailing services using SQL and regression analysis to support revenue and operational decisions.
 
@@ -39,7 +39,7 @@ Specializing in predictive analytics, SQL, Python, and data visualization for ac
 
 ---
 
-### 📉 US Company Bankruptcy Prediction
+### 📉 US Company Bankruptcy Prediction with Machine Learning
 🔗 [Full Code →](https://github.com/lilasu086/US-Company-Bankruptcy-Prediction-with-Machine-Learning)  
 **Impact:** Predicted bankruptcy risk using machine learning, enabling stakeholders to make early financial risk mitigation decisions.
 
