@@ -1,4 +1,4 @@
-# 🤖 AI vs Real Image Classification (CNN & Vision Transformers)
+# 🤖 AI vs. Real Image Classification with CNNs & Vision Transformers
 
 ## 📌 Business Problem
 With the rapid rise of generative AI, distinguishing between real and AI-generated images has become crucial in areas like media verification, content moderation, digital forensics, and misinformation control. Traditional image classifiers often struggle to generalize as synthetic image quality improves. This project seeks to build robust classifiers that can tell apart real photographs from AI-generated content.
