@@ -66,4 +66,4 @@ Develop an **interactive analytical dashboard** that visualizes US college compl
 ---
 
 🔗 **Full Notebook & Dashboard Code**  
-https://github.com/lilasu086/US-College-Completion-Dashboard-Analytics
+[US College Completion Dashboard Analytics](https://github.com/lilasu086/US-College-Completion-Dashboard-Analytics)
