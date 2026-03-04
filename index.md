@@ -47,8 +47,9 @@ Specializing in predictive analytics, SQL, Python, and data visualization for ac
 ---
 
 ### 🎧 Spotify Listener Segmentation & Popularity Analysis
-🔗 [Full Code →](https://github.com/lilasu086/Spotify-Listener-Segmentation-Popularity-Analysis)  
-**Impact:** Segmented listeners by behavior and popularity, informing marketing and engagement strategies for streaming platforms.
+🔗 [Case Study →](spotify-segmentation-popularity.md) | 🔗 [Full Code →](https://github.com/lilasu086/Spotify-Listener-Segmentation-Popularity-Analysis)  
+**Impact:** Segmented Spotify listeners and analyzed audio features to uncover meaningful patterns behind song popularity and listener behavior, guiding better playlist curation and marketing strategies.  
+**Tech:** Python, Clustering, EDA, Listener Segmentation
 
 ---
 
