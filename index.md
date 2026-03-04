@@ -21,9 +21,10 @@ Specializing in predictive analytics, SQL, Python, and data visualization for ac
 
 ---
 
-### 🚗 Ride-Hailing Demand & Pricing Insights (Uber & Lyft)
-🔗 [Full Code →](https://github.com/lilasu086/Ride-Hailing-Demand-Pricing-Insights-Uber-Lyft-)  
-**Impact:** Conducted demand analysis and pricing optimization for ride-hailing services using SQL and regression analysis to support revenue and operational decisions.
+### 🚗 Ride Hailing Demand & Pricing Insights (Uber & Lyft)
+🔗 [Case Study →](ride-hailing-pricing.md) | 🔗 [Full Code →](https://github.com/lilasu086/Ride-Hailing-Demand-Pricing-Insights-Uber-Lyft-)  
+**Impact:** Analyzed ride-hailing demand and pricing patterns to reveal how service type, time windows, and trip features influence dynamic pricing strategies—insights that can guide driver incentives and pricing optimization.  
+**Tech:** Python, EDA, Demand-Pricing Analysis
 
 ---
 
