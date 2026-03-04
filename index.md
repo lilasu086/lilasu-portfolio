@@ -27,9 +27,10 @@ Specializing in predictive analytics, SQL, Python, and data visualization for ac
 
 ---
 
-### 🤖 AI vs Real Image Classification (CNN & Vision Transformers)
-🔗 [Full Code →](https://github.com/lilasu086/AI-vs.-Real-Image-Classification-with-CNNs-Vision-Transformers)  
-**Impact:** Compared deep learning models on real vs synthetic image classification tasks, demonstrating model strengths and limitations for practical deployment.
+### 🤖 AI vs. Real Image Classification with CNNs & Vision Transformers
+🔗 [Case Study →](ai-vs-real.md) | 🔗 [Full Code →](https://github.com/lilasu086/AI-vs.-Real-Image-Classification-with-CNNs-Vision-Transformers)  
+**Impact:** Built and compared CNN and Vision Transformer models to distinguish real from AI-generated images, supporting content authenticity verification and digital moderation.  
+**Tech:** CNNs, Vision Transformer (ViT), PyTorch/TensorFlow, Image Classification
 
 ---
 
