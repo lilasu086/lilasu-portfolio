@@ -60,5 +60,5 @@ Build a machine learning model that predicts the likelihood of bankruptcy for U.
 
 ---
 
-🔗 **Full Code & Notebook**  
-https://github.com/lilasu086/US-Company-Bankruptcy-Prediction-with-Machine-Learning
+🔗 **Full Code & Notebook:**  
+[US Company Bankruptcy Prediction with Machine Learning](https://github.com/lilasu086/US-Company-Bankruptcy-Prediction-with-Machine-Learning)
