@@ -59,5 +59,5 @@ Develop and evaluate machine learning models that accurately predict whether an 
 
 ---
 
-🔗 **Full Code & Notebook**  
-https://github.com/lilasu086/AI-vs.-Real-Image-Classification-with-CNNs-Vision-Transformers
+🔗 **Full Code & Notebook:**  
+[AI vs Real Image Classification with CNNs & Vision Transformers](https://github.com/lilasu086/AI-vs.-Real-Image-Classification-with-CNNs-Vision-Transformers)
