@@ -8,12 +8,6 @@ Specializing in predictive analytics, SQL, Python, and data visualization for ac
 
 ## 🚀 Featured Projects
 
-### 📈 US College Completion Dashboard Analytics
-🔗 [Full Code →](https://github.com/lilasu086/US-College-Completion-Dashboard-Analytics)  
-**Impact:** Developed interactive dashboards to track U.S. college completion rates, enabling data-driven insights for policy or administrative decisions.
-
----
-
 ### 🚗 Ride Hailing Demand & Pricing Insights (Uber & Lyft)
 🔗 [Case Study →](ride-hailing-pricing.md) | 🔗 [Full Code →](https://github.com/lilasu086/Ride-Hailing-Demand-Pricing-Insights-Uber-Lyft-)  
 **Impact:** Analyzed ride-hailing demand and pricing patterns to reveal how service type, time windows, and trip features influence dynamic pricing strategies—insights that can guide driver incentives and pricing optimization.  
@@ -46,6 +40,13 @@ Specializing in predictive analytics, SQL, Python, and data visualization for ac
 🔗 [Case Study →](movie-recommendation.md) | 🔗 [Full Code →](https://github.com/lilasu086/Personalized-Movie-Recommendation-Engine-NLP-Association-Rules-)  
 **Impact:** Built a hybrid recommendation system combining NLP and association rule mining to generate personalized movie suggestions with improved relevance and semantic similarity.  
 **Tech:** Python, NLP (TF-IDF/Word2Vec/GloVe), Association Rules, Clustering
+
+---
+
+### 📈 US College Completion Dashboard Analytics
+🔗 [Case Study →](us-college-completion.md) | 🔗 [Full Code →](https://github.com/lilasu086/US-College-Completion-Dashboard-Analytics)  
+**Impact:** Built an interactive dashboard visualizing college completion trends across states and key demographic groups, helping policymakers and administrators identify equity gaps and track progress.  
+**Tech:** Python, Tableau, Data Cleaning & Wrangling, KPI Visualization
 
 ---
 
