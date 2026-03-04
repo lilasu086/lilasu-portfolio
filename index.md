@@ -8,13 +8,6 @@ Specializing in predictive analytics, SQL, Python, and data visualization for ac
 
 ## 🚀 Featured Projects
 
-### ✈️ Flight Delay Prediction & Operational Insights
-🔗 [Case Study →](flight-delay.md) | 🔗 [Full Code →](https://github.com/lilasu086/Flight-Delay-Prediction-Operational-Insights)  
-**Impact:** Built a predictive ML model to identify high-risk delayed flights. Provided actionable insights for airlines and airports to allocate resources proactively, improve scheduling, and enhance passenger experience.  
-**Tech:** Python, Pandas, Scikit-learn, EDA, Classification Models
-
----
-
 ### 📈 US College Completion Dashboard Analytics
 🔗 [Full Code →](https://github.com/lilasu086/US-College-Completion-Dashboard-Analytics)  
 **Impact:** Developed interactive dashboards to track U.S. college completion rates, enabling data-driven insights for policy or administrative decisions.
@@ -32,6 +25,20 @@ Specializing in predictive analytics, SQL, Python, and data visualization for ac
 🔗 [Case Study →](ai-vs-real.md) | 🔗 [Full Code →](https://github.com/lilasu086/AI-vs.-Real-Image-Classification-with-CNNs-Vision-Transformers)  
 **Impact:** Built and compared CNN and Vision Transformer models to distinguish real from AI-generated images, supporting content authenticity verification and digital moderation.  
 **Tech:** CNNs, Vision Transformer (ViT), PyTorch/TensorFlow, Image Classification
+
+---
+
+### ✈️ Flight Delay Prediction & Operational Insights
+🔗 [Case Study →](flight-delay.md) | 🔗 [Full Code →](https://github.com/lilasu086/Flight-Delay-Prediction-Operational-Insights)  
+**Impact:** Built a predictive ML model to identify high-risk delayed flights. Provided actionable insights for airlines and airports to allocate resources proactively, improve scheduling, and enhance passenger experience.  
+**Tech:** Python, Pandas, Scikit-learn, EDA, Classification Models
+
+---
+
+### 📊 Supply Chain ESG & Financial Impact Analytics
+🔗 [Case Study →](supply-chain-esg-financial-impact.md) | 🔗 [Full Code →](https://github.com/lilasu086/Supply-Chain-ESG-Financial-Impact-Analytics)  
+**Impact:** Explored how ESG-related performance and core financial indicators interact across firms, providing actionable insights for balancing sustainability with profitability and operational efficiency.  
+**Tech:** Python, Financial Ratio Analysis, ESG Analytics, EDA
 
 ---
 
