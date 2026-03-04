@@ -57,5 +57,6 @@ Analyze ride-hailing trip data to explore how demand and pricing vary across dif
 - Price & Demand pattern visualization
 
 ---
+
 🔗 **Full Notebook & Code:**  
 [Ride Hailing Demand & Pricing Insights (Uber & Lyft)](https://github.com/lilasu086/Ride-Hailing-Demand-Pricing-Insights-Uber-Lyft-)
