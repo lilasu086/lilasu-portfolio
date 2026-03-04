@@ -73,5 +73,5 @@ By turning historical delay patterns into actionable signals, the tool supports 
 
 ---
 
-🔗 **View Full Code & Notebook**  
-https://github.com/lilasu086/Flight-Delay-Prediction-Operational-Insights
+🔗 **Full Code & Notebook:**  
+[Flight Delay Prediction Operational Insights](https://github.com/lilasu086/Flight-Delay-Prediction-Operational-Insights)
