@@ -10,8 +10,8 @@ Specializing in predictive analytics, SQL, Python, and data visualization for ac
 
 ### ✈️ Flight Delay Prediction & Operational Insights
 🔗 [Case Study →](flight-delay.md) | 🔗 [Full Code →](https://github.com/lilasu086/Flight-Delay-Prediction-Operational-Insights)  
-**Impact:** Predicted flight delays using ML (logistic regression & random forest), identifying high-risk routes and actionable operational recommendations to reduce costs.  
-
+**Impact:** Built a predictive ML model to identify high-risk delayed flights. Provided actionable insights for airlines and airports to allocate resources proactively, improve scheduling, and enhance passenger experience.  
+**Tech:** Python, Pandas, Scikit-learn, EDA, Classification Models
 
 ---
 
