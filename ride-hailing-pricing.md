@@ -59,4 +59,4 @@ Analyze ride-hailing trip data to explore how demand and pricing vary across dif
 ---
 
 🔗 **Full Notebook & Code:**  
-https://github.com/lilasu086/Ride-Hailing-Demand-Pricing-Insights-Uber-Lyft-
+[Ride Hailing Demand & Pricing Insights (Uber & Lyft)](https://github.com/lilasu086/Ride-Hailing-Demand-Pricing-Insights-Uber-Lyft-)
