@@ -1,4 +1,4 @@
-# 🎬 Personalized Movie Recommendation Engine (NLP + Association Rules)
+# 🎬 Personalized Movie Recommendation Engine (NLP & Association Rules)
 
 ## 📌 Business Problem
 Streaming platforms and movie services need to deliver personalized movie recommendations to keep users engaged, reduce churn, and improve satisfaction. Traditional collaborative filtering may miss thematic and semantic patterns in movie content, leading to suboptimal suggestions.
