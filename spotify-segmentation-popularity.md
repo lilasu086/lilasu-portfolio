@@ -62,4 +62,4 @@ Segment Spotify listeners based on listening patterns and explore relationships 
 ---
 
 🔗 **Full Notebook & Code:**  
-https://github.com/lilasu086/Spotify-Listener-Segmentation-Popularity-Analysis
+[Spotify Listener Segmentation & Popularity Analysis](https://github.com/lilasu086/Spotify-Listener-Segmentation-Popularity-Analysis)
