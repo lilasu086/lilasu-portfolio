@@ -63,11 +63,6 @@ Specializing in predictive analytics, SQL, Python, and data visualization for ac
 
 ---
 
-### 🧪 Other Projects 
-- **Individual Coding Project** 🔗 [Repo →](https://github.com/lilasu086/Individual_CodingProject)  
-
----
-
 ## 💡 Skills & Tools
 - SQL, Python, Tableau, Looker Studio  
 - Machine Learning: Logistic Regression, Random Forest, Clustering  
