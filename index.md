@@ -35,8 +35,9 @@ Specializing in predictive analytics, SQL, Python, and data visualization for ac
 ---
 
 ### 🎬 Personalized Movie Recommendation Engine (NLP + Association Rules)
-🔗 [Full Code →](https://github.com/lilasu086/Personalized-Movie-Recommendation-Engine-NLP-Association-Rules-)  
-**Impact:** Built a hybrid recommendation system combining NLP and association rule mining on 900k+ movies to improve personalized user experience.
+🔗 [Case Study →](movie-recommendation.md) | 🔗 [Full Code →](https://github.com/lilasu086/Personalized-Movie-Recommendation-Engine-NLP-Association-Rules-)  
+**Impact:** Built a hybrid recommendation system combining NLP and association rule mining to generate personalized movie suggestions with improved relevance and semantic similarity.  
+**Tech:** Python, NLP (TF-IDF/Word2Vec/GloVe), Association Rules, Clustering
 
 ---
 
