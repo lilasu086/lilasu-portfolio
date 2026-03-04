@@ -1,4 +1,4 @@
-# 📉 US Company Bankruptcy Prediction
+# 📉 US Company Bankruptcy Prediction with Machine Learning
 
 ## 📌 Business Problem
 Financial distress and bankruptcy pose serious risks to investors, lenders, and regulatory bodies. Early identification of at‑risk companies helps stakeholders take proactive actions to mitigate losses and improve decision-making processes.
