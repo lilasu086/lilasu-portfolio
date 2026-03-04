@@ -1,6 +1,12 @@
 # Lila Su Portfolio
-Portfolio of data-driven business case studies focused on strategic decision-making, analytics, and measurable impact.
+Data & Business Analyst  
 
-## Projects
-- [EcoBus Pricing Strategy](link)
-- [MBTA Delay Prediction](link)
+Turning data into strategic business decisions.
+
+## Featured Projects
+### ✈️ Flight Delay Prediction
+Predicting flight delays using machine learning and operational insights.
+
+[View Case Study →](flight-delay.md)
+
+[Full Code on GitHub →](https://github.com/lilasu086/Flight-Delay-Prediction-Operational-Insights)
